@@ -1,5 +1,7 @@
 # grammar-t5-small
-Train Google's flan-t5-small for grammar fixing, using Grammarly's coedit dataset (https://huggingface.co/datasets/grammarly/coedit)
+Train Google's flan-t5-small for grammar fixing, using Grammarly's [coedit dataset](https://huggingface.co/datasets/grammarly/coedit)
+
+Huggingface Link: https://huggingface.co/huytd189/grammar-t5-small
 
 ### Test with base google/flan-t5-small model
 
